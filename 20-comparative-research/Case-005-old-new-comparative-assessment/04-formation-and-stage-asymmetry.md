@@ -2311,4 +2311,1845 @@ The remaining responsibility is to record the **formation-bias controls, process
 
 **Continue directly with: Part 3 — Formation Bias Controls, Artifact Relationships, and Final Closure**
 
+# Part 3 — Formation Bias Controls, Artifact Relationships, and Final Closure
+
+## 99. Purpose of Part 3
+
+Parts 1 and 2 established:
+
+- the actual Old formation boundary;
+- the extended New formation architecture;
+- Formation Asymmetry;
+- Stage Asymmetry;
+- the distinction between direct comparison and Stage-Unavailable classification.
+
+Part 3 records the controls required to prevent those asymmetries from being converted into unsupported quality judgments.
+
+Its responsibility is therefore:
+
+> **Preserve Formation Difference without converting Formation Difference into Truth-Value Difference.**
+
+---
+
+## 100. Formation Completeness Bias
+
+A primary risk in the Old × New assessment is **Formation Completeness Bias**.
+
+Its structure is:
+
+    New Case
+    Complete Formation
+
+            ×
+
+    Old Case
+    Incomplete Formation
+
+            ↓
+
+    New must therefore
+    be more correct
+
+The final inference is not justified.
+
+The valid observation is only:
+
+> New Case 005 reached substantially more analytical stages than Old Case 005.
+
+Therefore:
+
+> **More Complete ≠ More Correct**
+
+---
+
+## 101. Artifact Count Bias
+
+A related risk is to infer evidential strength from repository size.
+
+The New Case contains more formed artifacts.
+
+The Old Case contains only three formed comparative artifacts.
+
+However:
+
+    More Artifacts
+            ≠
+    More Independent Evidence
+
+Additional artifacts may represent:
+
+- additional analytical stages;
+- finer decomposition;
+- process-control records;
+- repository navigation;
+- validation records;
+- compression of already formed observations.
+
+Therefore:
+
+> **Artifact Count ≠ Evidence Weight**
+
+---
+
+## 102. Detail Bias
+
+New Independent Case 005 is substantially more detailed than Old Case 005.
+
+That difference is observable.
+
+However:
+
+> **More Detailed ≠ More Accurate**
+
+Greater detail may improve structural discrimination.
+
+It may also produce unnecessary fragmentation or over-decomposition.
+
+Detail therefore cannot serve as an independent validity criterion.
+
+---
+
+## 103. Granularity Bias
+
+The New Case reconstructs World Model and ACIM at considerably greater granularity before comparison.
+
+This creates a possible bias:
+
+    Greater Granularity
+            ↓
+    More Differences Identified
+            ↓
+    Differences interpreted as
+    more accurate
+
+That inference is not automatically justified.
+
+The appropriate question is:
+
+> Do the finer distinctions preserve evidentially supported responsibility differences, or do they fragment structures beyond what the evidence supports?
+
+This question belongs to Recursive Verification rather than to formation history alone.
+
+---
+
+## 104. New Over-Decomposition Alternative
+
+The possibility that New analysis over-decomposed the comparison was explicitly considered.
+
+The New judgment did not eliminate all correspondence.
+
+Instead, it retained correspondence at several bounded levels:
+
+    Representation / Formal
+            ↓
+    Meaningful Correspondence
+
+    Abstract Organizational
+            ↓
+    Limited / Qualified Correspondence
+
+    Object Structural / Topological
+            ↓
+    Material Non-Correspondence
+
+This pattern provides no material evidence that decomposition simply destroyed correspondence.
+
+However:
+
+> **Absence of demonstrated over-decomposition ≠ Proof of optimal decomposition**
+
+The broader methodological question remains open.
+
+---
+
+## 105. Correspondence Inflation Bias
+
+The reverse risk is **Correspondence Inflation**.
+
+Its possible structure is:
+
+    Both objects are organized
+            ↓
+    Both contain dependency
+            ↓
+    Both contain progression
+            ↓
+    Both use canonical representations
+            ↓
+    Strong Structural Correspondence
+
+This may overstate the evidence if the shared features exist only at a highly abstract or representation-level layer.
+
+New Recursive Verification therefore asks:
+
+> At what level does each correspondence actually hold?
+
+---
+
+## 106. Legacy Correspondence Inflation — Not Established
+
+Old Case 005 formed several broad correspondence judgments.
+
+However, the Legacy process stopped before later planned stages.
+
+Therefore the current assessment cannot establish:
+
+> Old Case 005 suffered from correspondence inflation.
+
+It can establish only:
+
+> Some broad Legacy correspondences were later localized or reclassified under New independent analysis.
+
+Whether Old itself would have performed similar localization had it continued remains:
+
+> **UNDETERMINED**
+
+---
+
+## 107. Possible Early Correspondence Inflation
+
+The bounded formulation is:
+
+> **Possible Early Correspondence Inflation — UNDETERMINED**
+
+This preserves the alternative without converting it into a retrospective diagnosis.
+
+The Old formed artifacts remain evidence.
+
+They are not redefined as errors merely because New later introduced narrower classifications.
+
+---
+
+## 108. Non-Correspondence Inflation Bias
+
+The New Case also requires the opposite control.
+
+A highly granular comparison may generate many local differences.
+
+Those differences must not automatically be converted into:
+
+> total structural unrelatedness.
+
+New therefore preserves several forms of correspondence even while identifying material object-level non-correspondence.
+
+The relevant invariant is:
+
+> **Material Non-Correspondence ≠ Absence of All Correspondence**
+
+---
+
+## 109. High-Abstraction Correspondence Bias
+
+A further risk appears when correspondence increases as abstraction increases.
+
+For example:
+
+    Different concrete structures
+            ↓
+    Abstract both as
+    "organized systems"
+            ↓
+    Apparent correspondence increases
+
+This does not necessarily mean the evidence has become stronger.
+
+At sufficiently high abstraction, distinctions may disappear simply because the comparison has lost discriminative power.
+
+Therefore:
+
+> **High-Abstraction Correspondence ≠ Stronger Evidence**
+
+---
+
+## 110. Correspondence Boundary
+
+The New assessment therefore treats correspondence as bounded by:
+
+- level;
+- responsibility;
+- provenance;
+- evidence strength;
+- alternative explanation.
+
+The question is not merely:
+
+> Is there correspondence?
+
+The stronger comparative question is:
+
+> **Where does correspondence hold, under which structural responsibility, and how far can it be extended before the evidence no longer supports it?**
+
+---
+
+## 111. Correspondence Localization
+
+This produces the central process-level observation:
+
+> **Correspondence Localization**
+
+Correspondence is not simply accepted or rejected.
+
+Instead:
+
+    Candidate Correspondence
+            ↓
+    Level Identification
+            ↓
+    Responsibility Identification
+            ↓
+    Provenance Question
+            ↓
+    Alternative Explanation
+            ↓
+    Reverse Check
+            ↓
+    Bounded Correspondence
+
+The result may be:
+
+- strong;
+- partial;
+- functional without structural identity;
+- representation-level;
+- low-discriminative;
+- non-correspondent;
+- undetermined.
+
+---
+
+## 112. Correspondence Expansion → Correspondence Localization
+
+At the Case level, the Old × New formation can be represented as:
+
+    OLD FORMED STATE
+
+    Broad Organizational
+    Correspondence Formation
+
+            ↓
+
+    NEW FORMED STATE
+
+    Correspondence localized by:
+
+    Level
+    +
+    Responsibility
+    +
+    Provenance
+    +
+    Evidence Strength
+
+This produces the bounded Case-level formulation:
+
+> **Correspondence Expansion → Correspondence Localization**
+
+---
+
+## 113. Boundary of the Localization Claim
+
+The phrase does not mean:
+
+> Old methodology inherently expands correspondence.
+
+It does not mean:
+
+> New methodology necessarily corrects correspondence.
+
+It does not mean:
+
+> Recursive Verification always localizes correspondence.
+
+It means only:
+
+> The formed Legacy artifacts contain broad organizational correspondence judgments, while the independently formed and verified New Case contains a more localized correspondence architecture.
+
+This is a Case-level observation.
+
+---
+
+## 114. Formation Difference and Judgment Difference
+
+The Old and New Cases differ both in formation architecture and in some comparative judgments.
+
+However:
+
+    Formation Difference
+            +
+    Judgment Difference
+
+does not establish:
+
+    Formation Difference
+            CAUSED
+    Judgment Difference
+
+The causal relationship remains undetermined.
+
+---
+
+## 115. Process-Level Observation ≠ Causal Explanation
+
+For example, New Case used:
+
+- independent reconstruction;
+- Freeze;
+- Comparison Unit First;
+- higher-order integration;
+- Recursive Verification.
+
+New also produced more localized correspondence.
+
+The current evidence supports both observations.
+
+It does not support:
+
+> Those process controls caused the localized result.
+
+Therefore:
+
+> **Process Association ≠ Causal Mechanism**
+
+---
+
+## 116. Freeze Effect Boundary
+
+Freeze was used to preserve independently reconstructed objects before comparison.
+
+Its explicit responsibility was:
+
+    Reconstruction
+            ↓
+    FREEZE
+            ↓
+    Comparison without
+    retroactive object modification
+
+This supports a procedural claim.
+
+It does not support:
+
+> Freeze guarantees reconstruction correctness.
+
+Therefore:
+
+> **Freeze ≠ Validation**
+
+---
+
+## 117. Independent Reconstruction Effect Boundary
+
+Independent reconstruction reduced the possibility that one object would be reconstructed directly in the architecture of the other.
+
+However:
+
+> **Independent Reconstruction ≠ Correct Reconstruction**
+
+The process protects independence.
+
+It does not independently establish completeness or source fidelity.
+
+---
+
+## 118. Comparison Unit Effect Boundary
+
+Comparison Unit First was introduced to reduce **Parallel Description**.
+
+The intended transformation was:
+
+    Long A Description
+        +
+    Long B Description
+        +
+    Minimal Comparison
+
+            ↓
+
+    Fixed Comparison Unit
+            ↓
+    Minimal A Extraction
+            ↓
+    Minimal B Extraction
+            ↓
+    Direct A ↔ B Observation
+            ↓
+    Judgment
+
+This is a process-control architecture.
+
+Its general effectiveness is not established by Case 005 alone.
+
+---
+
+## 119. Comparative Density Boundary
+
+Comparative Density was used as a self-test:
+
+> If A and B descriptions can be separated and still retain nearly all analytical meaning, the result may be juxtaposition rather than direct comparison.
+
+This criterion helped govern New Phase 3.
+
+However:
+
+> **Higher Comparative Density ≠ Higher Truth Value**
+
+It concerns the form and directness of comparison.
+
+---
+
+## 120. Recursive Verification Effect Boundary
+
+Recursive Verification challenged already formed judgments.
+
+Some classifications changed.
+
+Therefore it is valid to state:
+
+> Recursive Verification materially affected the New comparative judgment.
+
+It is not valid to state:
+
+> Recursive Verification proved the final judgment correct.
+
+The invariant is:
+
+> **Recursive Verification ≠ External Validation**
+
+---
+
+## 121. Verification Survival ≠ Empirical Validity
+
+A judgment that survives internal alternative testing may be more stable within the current evidence boundary.
+
+However:
+
+    Survived Recursive Verification
+            ≠
+    Empirically Validated
+
+and:
+
+    Survived Recursive Verification
+            ≠
+    Theoretically Proven
+
+The current assessment remains an analytical comparison of Structural Representations.
+
+---
+
+## 122. Repository Completion Bias
+
+New Case 005 reached repository projection and closure.
+
+Old Case 005 did not.
+
+This visual and procedural difference may create an implicit inference:
+
+    Completed Repository
+            ↓
+    Mature Judgment
+            ↓
+    More Correct Judgment
+
+That inference is not justified.
+
+Therefore:
+
+> **Repository Completion ≠ Research Truth**
+
+---
+
+## 123. Repository Appearance Bias
+
+The completed New repository may appear more authoritative because it contains:
+
+- a full artifact sequence;
+- explicit status markers;
+- validation boundaries;
+- a README;
+- final summaries.
+
+Old visibly contains empty planned artifacts.
+
+This visual asymmetry must not become epistemic weighting.
+
+Therefore:
+
+> **Repository Appearance ≠ Evidence Weight**
+
+---
+
+## 124. Repository Architecture ≠ Formation Architecture
+
+Another distinction must remain explicit.
+
+Repository Architecture concerns how research assets are organized for preservation and navigation.
+
+Formation Architecture concerns how observations and judgments were actually produced.
+
+Therefore:
+
+> **Repository Architecture ≠ Formation Architecture**
+
+A completed repository may record a formation process.
+
+It is not identical to that process.
+
+---
+
+## 125. Formation Architecture ≠ Representation Architecture
+
+Likewise:
+
+> **Formation Architecture ≠ Representation Architecture**
+
+The architecture used to reconstruct and compare World Model and ACIM is not itself the structural architecture of either object.
+
+This prevents methodological structure from being projected onto research-object structure.
+
+---
+
+## 126. Representation Architecture ≠ Research Object Architecture
+
+The same boundary continues one level further:
+
+> **Representation Architecture ≠ Research Object Architecture**
+
+A Structural Representation is an externalized analytical object.
+
+Its organization may reflect:
+
+- the source;
+- the reconstruction;
+- the representation methodology;
+- combinations of these.
+
+Therefore correspondence between Representations cannot automatically be promoted into correspondence between research objects.
+
+---
+
+## 127. Three-Level Provenance Control
+
+Observed comparative structure must therefore be considered across three possible levels:
+
+    Research Object
+            ↓
+    Representation
+            ↓
+    Representation Methodology
+
+An observed correspondence may arise primarily at any one of these levels.
+
+The current evidence does not always permit the provenance to be isolated.
+
+---
+
+## 128. Methodology-Induced Similarity
+
+Because World Model and ACIM were represented through a shared Structural Representation methodology, some formal similarities may reflect that shared process.
+
+Examples may include:
+
+- differentiated artifact responsibilities;
+- canonicalization;
+- relation-type separation;
+- boundary preservation;
+- explicit distinction between hierarchy and dependency.
+
+Therefore:
+
+> **Methodological Convergence ≠ Object-Level Convergence**
+
+---
+
+## 129. Methodology-Induced Similarity ≠ Universal Explanation
+
+The shared methodology alternative must also not be overextended.
+
+It does not prove that every correspondence is methodology-induced.
+
+For example, ACIM developmental organization was independently reconstructed as a material analytical feature.
+
+Therefore the valid status for the broader provenance question remains:
+
+> **UNDETERMINED where the evidence cannot isolate object structure from representation methodology.**
+
+---
+
+## 130. Formation Completeness Bias Control
+
+The explicit control is:
+
+    Old Incomplete
+            +
+    New Complete
+            ↓
+    PRESERVE AS FORMATION DIFFERENCE
+
+not:
+
+    Old Incomplete
+            +
+    New Complete
+            ↓
+    QUALITY RANKING
+
+This control applies throughout Artifacts 04–06.
+
+---
+
+## 131. Counterfactual Bias Control
+
+The following statements remain prohibited:
+
+- Old would have revised its correspondence judgments.
+- Old would have preserved its correspondence judgments.
+- Old would have discovered the Recovery asymmetry.
+- Old would have identified methodology-induced similarity.
+- Old would have converged with New.
+- Old would have diverged further from New.
+
+All such statements concern an unformed Legacy future.
+
+Their status is:
+
+> **UNDETERMINED**
+
+---
+
+## 132. Historical Integrity Control
+
+The Legacy package must remain historically intact.
+
+Therefore:
+
+- empty Legacy artifacts remain empty;
+- no New content is inserted into them;
+- no current terminology is projected backward as if historically formed;
+- no hypothetical Legacy summary is created;
+- no later verification is attributed to Old.
+
+This preserves the Legacy object as evidence.
+
+---
+
+## 133. Bidirectional Non-Modification
+
+The Old × New assessment also preserves a reverse boundary.
+
+Old content must not modify the already frozen New reconstruction.
+
+Therefore:
+
+    Old Disclosure
+            ≠
+    Permission to rewrite
+    Frozen A
+
+and:
+
+    Old Disclosure
+            ≠
+    Permission to rewrite
+    Frozen B
+
+The New objects remain the objects independently formed before Legacy disclosure.
+
+---
+
+## 134. New Pre-Legacy Freeze
+
+The relevant sequence remains:
+
+    Frozen A
+        +
+    Frozen B
+            ↓
+    New Comparative Observation
+            ↓
+    Recursive Verification
+            ↓
+    Restabilized Judgment
+            ↓
+    PRE-LEGACY FREEZE
+            ↓
+    Legacy Intake
+
+This preserves the direction of evidence.
+
+---
+
+## 135. Independence ≠ Source Confirmation
+
+Because New was independently formed relative to Old, convergence between Old and New is analytically interesting.
+
+However:
+
+> **Independent Analysis ≠ Independent Source Confirmation**
+
+Both analyses may still ultimately depend on related or overlapping representation resources.
+
+Therefore convergence must be typed carefully.
+
+---
+
+## 136. Independent Convergence Types
+
+Old × New convergence may occur at different levels:
+
+### Methodological Convergence
+
+Shared comparison principles or analytical discipline.
+
+### Representational Convergence
+
+Shared formal organization within the Representation Packages.
+
+### Analytical Convergence
+
+Independent analyses form materially similar observations.
+
+### Research-Object Structural Convergence
+
+Both independently support a materially corresponding object-level architecture.
+
+These levels are not interchangeable.
+
+---
+
+## 137. Strongest Preserved Convergence
+
+The strongest Old × New convergence occurs around methodological and representational principles such as:
+
+- Compare Representations rather than original resources directly.
+- Preserve fixed comparative objects.
+- Preserve difference as evidence.
+- Compare organization rather than terminology alone.
+- Avoid treating conceptual identity as a prerequisite for comparison.
+
+These are meaningful convergences.
+
+They do not establish deep World Model × ACIM structural identity.
+
+---
+
+## 138. Object-Level Convergence Boundary
+
+At the research-object level, the New restabilized judgment does not support broad structural identity.
+
+Instead it supports:
+
+    Representation / Formal
+            ↓
+    Meaningful Correspondence
+
+    Abstract Organizational
+            ↓
+    Limited / Qualified Correspondence
+
+    Object Structural / Topological
+            ↓
+    Material Non-Correspondence
+
+This three-level architecture must remain intact.
+
+---
+
+## 139. Non-Correspondence Stability
+
+An important observation from Recursive Verification was that several material non-correspondences remained stable under challenge.
+
+These include differences concerning:
+
+- structural center;
+- explicit developmental architecture;
+- Recovery / Reintegration;
+- Prediction responsibility;
+- Architectural Coordinate System;
+- Core / Extension architecture;
+- hierarchy;
+- closure.
+
+This stability is analytically meaningful.
+
+However:
+
+> **Verification-Stable Non-Correspondence ≠ Empirical Proof of Difference**
+
+---
+
+## 140. Non-Correspondence as Positive Comparative Evidence
+
+The repository treats Non-Correspondence as a legitimate comparative result.
+
+Therefore:
+
+> **Non-Correspondence ≠ Failed Comparison**
+
+A comparison that preserves material difference may be more informative than one that forces symmetry.
+
+This principle applies equally to Old × New assessment.
+
+---
+
+## 141. Difference ≠ Deficiency
+
+When one structure contains a responsibility without an established counterpart in the other, the correct classification may be Non-Correspondence.
+
+This does not imply deficiency.
+
+For example:
+
+    Recovery Architecture
+    in ACIM
+            ≠
+    Missing capability
+    in World Model
+
+and:
+
+    Prediction-directedness
+    in World Model
+            ≠
+    Missing capability
+    in ACIM
+
+The objects have different structural responsibilities.
+
+Therefore:
+
+> **Absence of Counterpart ≠ Deficiency**
+
+---
+
+## 142. Different Closure ≠ Different Maturity
+
+Likewise:
+
+    World Model
+    Stable Core + Open Extension
+
+            ≠
+
+    ACIM
+    Differentiated Closure Architecture
+
+does not establish that one is more mature.
+
+Therefore:
+
+> **Different Closure Condition ≠ Different Quality or Maturity**
+
+---
+
+## 143. Unresolved ≠ Absent
+
+New Frozen A preserves several architectural extensions as unresolved.
+
+This produces another governing invariant:
+
+> **Unresolved ≠ Absent**
+
+An unresolved element must not be treated as definitively external or nonexistent.
+
+This is especially relevant to the Legacy World Model progression.
+
+---
+
+## 144. Formation Asymmetry Matrix
+
+| Formation Dimension | Old Case 005 | New Independent Case 005 |
+|---|---|---|
+| Comparative basis | Representation Packages | Independently reconstructed Frozen Projections |
+| Controlled sequential intake | Not established as equivalent formed responsibility | Explicit |
+| Independent Reconstruction A | Not formed under New protocol | Explicit |
+| Freeze A | Not formed | Explicit |
+| Independent Reconstruction B | Not formed under New protocol | Explicit |
+| Freeze B | Not formed | Explicit |
+| Structural comparison | Formed | Formed |
+| Functional comparison | Formed | Formed |
+| Comparison Unit First | Not formed | Explicit |
+| Higher-order integration | Not formed | Explicit |
+| Recursive Verification | Not formed | Explicit |
+| Alternative-explanation testing | Not formed as dedicated stage | Explicit |
+| Restabilization | No final formed counterpart | Explicit |
+| Repository completion | Stopped after 03 | Completed |
+| Legacy-content exposure during New formation | Not applicable | Withheld until Pre-Legacy Freeze |
+
+This matrix describes process structure.
+
+It does not rank truth value.
+
+---
+
+## 145. Stage Availability Map
+
+| Analytical Responsibility | Old | New | Permissible Treatment |
+|---|---:|---:|---|
+| Comparative Preconditions | Available | Available | Direct comparison |
+| Structural Correspondence | Available | Available | Direct comparison |
+| Functional Correspondence | Available | Available | Direct comparison |
+| Development | Available | Available | Reclassification permitted |
+| Hierarchy | Available | Available | Reclassification permitted |
+| Dependency | Available | Available | Reclassification permitted |
+| Canonicalization | Available | Available | Reclassification permitted |
+| World Model Progression | Available | Available | Non-Reproduction permitted |
+| Higher-order Structural Topology | Not formed | Available | Stage-Unavailable |
+| Recovery-turn direct comparison | Not formed at comparable responsibility | Available | Stage-Unavailable |
+| Prediction-directed asymmetry | Not formed at comparable responsibility | Available | Stage-Unavailable |
+| Coordinate-system asymmetry | Not formed | Available | Stage-Unavailable |
+| Closure Architecture | Not formed | Available | Stage-Unavailable |
+| Unified Flow Test | Not formed | Available | Stage-Unavailable |
+| Feedback Test | Not formed | Available | Stage-Unavailable |
+| Formal Recursion Test | Not formed | Available | Stage-Unavailable |
+| Recursive Verification | Not formed | Available | Stage-Unavailable |
+| Correspondence-Provenance Analysis | Precursor only | Explicit | New-Formed / Legacy-Undetermined |
+| Restabilized Final Judgment | Not formed | Available | Stage-Unavailable |
+
+---
+
+## 146. Formation Asymmetry as Interpretive Constraint
+
+Formation Asymmetry changes how absence must be interpreted.
+
+Without the constraint:
+
+    New contains X
+    Old does not
+            ↓
+    Difference
+
+With the constraint:
+
+    New contains X
+    Old does not
+            ↓
+    Was comparable responsibility
+    actually formed in Old?
+            ↓
+        YES / NO
+
+Only after that question can a valid classification be assigned.
+
+---
+
+## 147. Formation Asymmetry as Evidence Protection
+
+The function of Artifact 04 is therefore protective.
+
+It protects Old from:
+
+- retrospective completion;
+- false failure attribution;
+- false disagreement;
+- false inferiority;
+- unsupported counterfactual conclusions.
+
+It protects New from:
+
+- retroactive modification;
+- Legacy-targeted reconstruction;
+- forced convergence;
+- forced divergence.
+
+And it protects the comparison from:
+
+- artifact-number symmetry;
+- formation-completeness bias;
+- stage-confounded comparison.
+
+---
+
+## 148. Relationship to `01-legacy-evidence-boundary.md`
+
+Artifact 01 answers:
+
+> **What counts as Legacy Evidence?**
+
+Its core responsibility is evidence-object definition.
+
+Artifact 04 answers:
+
+> **Given the unequal formation histories, which analytical responsibilities can legitimately be compared?**
+
+The relation is:
+
+    01
+    Legacy Evidence Boundary
+            ↓
+    04
+    Formation / Stage
+    Comparability Boundary
+
+Artifact 04 does not redefine the Legacy Evidence Object.
+
+---
+
+## 149. Relationship to `02-preserved-and-convergent-observations.md`
+
+Artifact 02 answers:
+
+> **Which Legacy observations materially remained present in New independent analysis?**
+
+Artifact 04 provides the stage control required to interpret those convergences.
+
+Therefore:
+
+    02
+    Preserved / Convergent
+    Observations
+
+            +
+
+    04
+    Formation / Stage
+    Boundary
+
+prevents methodological or representation-level convergence from being inflated into unsupported object-level convergence.
+
+---
+
+## 150. Relationship to `03-reclassified-and-non-reproduced-observations.md`
+
+Artifact 03 answers:
+
+> **Which formed Legacy observations changed classification or were not independently reproduced?**
+
+Artifact 04 establishes the prerequisite for that judgment:
+
+> A formed Legacy observation must exist at a materially comparable responsibility.
+
+Therefore:
+
+    Legacy Judgment Exists
+            ↓
+    03
+    RECLASSIFIED /
+    NON-REPRODUCED
+
+whereas:
+
+    Comparable Legacy Stage
+    Not Formed
+            ↓
+    04
+    STAGE-UNAVAILABLE
+
+This boundary must remain strict.
+
+---
+
+## 151. Relationship to `05-recursive-verification.md`
+
+Artifact 05 records how provisional Old × New judgments were challenged.
+
+Its responsibilities include:
+
+- Independent Convergence Check;
+- Methodology-Induced Similarity Check;
+- Development Reclassification Check;
+- Hierarchy Reverse Check;
+- Dependency Reverse Check;
+- Canonicalization Provenance Check;
+- World Model Progression Alternatives;
+- Stage-Unavailable Check;
+- Correspondence Inflation Check;
+- New Over-Decomposition Check;
+- Formation Completeness Bias;
+- Non-Correspondence Stability Check.
+
+Artifact 04 establishes the formation boundary within which those verification tests must operate.
+
+Artifact 04 does not replace the verification record.
+
+---
+
+## 152. Relationship to `06-restabilized-comparative-judgment.md`
+
+Artifact 06 will compress the final Old × New assessment using the restabilized status categories:
+
+- **PRESERVED**
+- **RECLASSIFIED**
+- **NON-REPRODUCED**
+- **NEW-FORMED / LEGACY-UNDETERMINED**
+- **STAGE-UNAVAILABLE**
+- **NOT ESTABLISHED**
+
+Artifact 04 supplies the formation logic underlying:
+
+> **NEW-FORMED / LEGACY-UNDETERMINED**
+
+and:
+
+> **STAGE-UNAVAILABLE**
+
+Artifact 06 must not erase the asymmetry recorded here.
+
+---
+
+## 153. Relationship to README
+
+README will provide:
+
+- entry;
+- navigation;
+- provenance;
+- package status;
+- reading order.
+
+It should not reproduce the detailed Formation Asymmetry analysis.
+
+The intended reading relationship is:
+
+    README
+    Entry / Navigation
+            ↓
+    01
+    Evidence Boundary
+            ↓
+    02
+    Preserved / Convergent
+            ↓
+    03
+    Reclassified /
+    Non-Reproduced
+            ↓
+    04
+    Formation /
+    Stage Asymmetry
+            ↓
+    05
+    Recursive Verification
+            ↓
+    06
+    Restabilized Judgment
+
+---
+
+## 154. Cross-Artifact Responsibility Boundary
+
+The responsibility split is:
+
+| Artifact | Primary Question |
+|---|---|
+| `01` | What Legacy evidence actually exists? |
+| `02` | What remained across Old and New? |
+| `03` | What changed or was not reproduced? |
+| `04` | Where does unequal formation limit comparison? |
+| `05` | What happened when provisional judgments were challenged? |
+| `06` | What is the final restabilized comparative judgment? |
+| `README` | How should the package be entered and read? |
+
+Artifact 04 must remain centered on the fourth question.
+
+---
+
+## 155. Artifact 04 Does Not Reopen Artifact 03
+
+Artifact 04 may cite examples of:
+
+- development;
+- hierarchy;
+- dependency;
+- canonicalization;
+- World Model progression
+
+only to determine whether they are directly comparable or Stage-Unavailable.
+
+It does not independently re-perform their full reclassification.
+
+Those judgments belong to Artifact 03.
+
+---
+
+## 156. Artifact 04 Does Not Perform Artifact 05
+
+Artifact 04 may record that Stage-Unavailable and Formation Completeness Bias were subjected to verification.
+
+However, it does not contain the full verification trace.
+
+Detailed challenge-response records belong to:
+
+`05-recursive-verification.md`
+
+Therefore:
+
+> **Formation Boundary Record ≠ Verification Record**
+
+---
+
+## 157. Artifact 04 Does Not Replace Artifact 06
+
+Artifact 04 does not form a new overall Old × New judgment.
+
+Its responsibility ends with the comparability boundary.
+
+The final integrated judgment remains the responsibility of:
+
+`06-restabilized-comparative-judgment.md`
+
+Therefore:
+
+> **Stage Boundary ≠ Final Comparative Judgment**
+
+---
+
+## 158. Governing Invariant Set
+
+The following invariants govern Artifact 04 and all downstream use of its findings:
+
+> **Old Incomplete ≠ Old Invalid**
+
+> **New Complete ≠ New Correct**
+
+> **Preserved ≠ Validated**
+
+> **Reclassified ≠ Legacy Error**
+
+> **Non-Reproduced ≠ Falsified**
+
+> **Stage-Unavailable ≠ New-only**
+
+> **Stage-Unavailable ≠ Legacy Failure**
+
+> **Stage-Unavailable ≠ Non-Reproduction**
+
+> **Legacy Silence ≠ Legacy Position**
+
+> **More Complete ≠ More Correct**
+
+> **More Detailed ≠ More Accurate**
+
+> **More Artifacts ≠ Better Evidence**
+
+> **Formation Performance ≠ Artifact Validity**
+
+> **Methodological Convergence ≠ Object-Level Convergence**
+
+> **Representation-Level Correspondence ≠ Research-Object Correspondence**
+
+> **High-Abstraction Correspondence ≠ Stronger Evidence**
+
+> **Independent Analysis ≠ Independent Source Confirmation**
+
+> **Independent Reconstruction ≠ Correct Reconstruction**
+
+> **Freeze ≠ Validation**
+
+> **Recursive Verification ≠ External Validation**
+
+> **Different Closure Condition ≠ Different Quality or Maturity**
+
+> **Absence of Counterpart ≠ Deficiency**
+
+> **Unresolved ≠ Absent**
+
+> **Different Formation Architecture ≠ Different Truth Value**
+
+---
+
+## 159. What Artifact 04 Establishes
+
+This artifact establishes that:
+
+1. Old Case 005 formed artifacts 01–03 only.
+2. Old 04–06 and README were not formed.
+3. The Legacy formation stop is a historical evidence boundary.
+4. Not Formed does not mean Missing, Lost, Negative Evidence, or Insufficient Intake.
+5. New Independent Case 005 reached substantially later analytical stages.
+6. New was frozen before Legacy content disclosure.
+7. Old and New therefore exhibit material Formation Asymmetry.
+8. Formation Asymmetry produces Stage Asymmetry.
+9. Direct comparison requires materially overlapping analytical responsibility.
+10. Stage-Unavailable applies where the comparable Legacy responsibility was never formed.
+11. Stage-Unavailable does not mean New-only.
+12. Stage-Unavailable does not mean Legacy failure.
+13. Stage-Unavailable does not mean Non-Reproduction.
+14. Legacy precursor without determining judgment may require New-Formed / Legacy-Undetermined.
+15. Formation completeness does not establish correctness.
+16. New completion does not establish superiority.
+17. Old incompletion does not invalidate formed Legacy observations.
+18. No hypothetical Legacy final judgment may be reconstructed.
+19. Formation Architecture must remain separate from Representation Architecture and Research Object Architecture.
+20. Formation difference may be compared as a process-level object without converting it into a quality ranking.
+
+---
+
+## 160. What Artifact 04 Does Not Establish
+
+This artifact does not establish that:
+
+- New is better than Old.
+- Old was analytically deficient.
+- New is more accurate because it is more detailed.
+- Old would have revised its broad correspondence judgments.
+- Old would have preserved its broad correspondence judgments.
+- Old would have converged with New.
+- Old would have diverged from New.
+- Old would have discovered the later New asymmetries.
+- Recursive Verification guarantees correctness.
+- Freeze guarantees source fidelity.
+- Independent reconstruction guarantees completeness.
+- More stages produce better judgments.
+- More MDs produce stronger evidence.
+- New methodology caused Correspondence Localization.
+- Old methodology caused Correspondence Expansion.
+- Legacy correspondence inflation is established.
+- New over-decomposition is impossible.
+- The Legacy World Model progression was falsified.
+- Stage-Unavailable observations are uniquely New discoveries.
+- Shared methodology explains every Old × New convergence.
+- Repository completion establishes research validity.
+
+All such claims exceed the current evidence.
+
+---
+
+## 161. Restabilized Formation Judgment
+
+The restabilized formation judgment is:
+
+> **Old Case 005 and New Independent Case 005 are not formation-symmetric comparative objects.**
+
+Old Case 005 provides genuine formed evidence through:
+
+    01
+        ↓
+    02
+        ↓
+    03
+
+New Independent Case 005 provides a substantially more extended analytical formation.
+
+This difference determines the scope of legitimate Old × New comparison.
+
+It does not determine which Case is more correct.
+
+---
+
+## 162. Restabilized Stage Judgment
+
+The restabilized Stage-Asymmetry judgment is:
+
+> **Where Old and New formed materially comparable analytical responsibilities, direct comparison is justified.**
+
+> **Where Old did not reach the corresponding analytical responsibility, the absence of a Legacy judgment must remain Stage-Unavailable or Legacy-Undetermined rather than being converted into disagreement, failure, or novelty.**
+
+---
+
+## 163. Process-Level Comparative Observation
+
+At the formation level, the following difference is supported:
+
+    OLD
+
+    Comparative Preconditions
+            ↓
+    Structural Correspondence
+            ↓
+    Functional Correspondence
+            ↓
+    STOP
+
+versus:
+
+    NEW
+
+    Controlled Intake
+            ↓
+    Independent Reconstruction
+            ↓
+    Freeze
+            ↓
+    Responsibility-Level Comparison
+            ↓
+    Higher-order Integration
+            ↓
+    Recursive Verification
+            ↓
+    Restabilized Judgment
+            ↓
+    Repository Projection
+
+This is a material Formation-Architecture difference.
+
+Its causal interpretation remains undetermined.
+
+---
+
+## 164. Correspondence Formation Pattern
+
+At the Case level, the comparative formation can be compressed as:
+
+    OLD
+
+    Broad Organizational
+    Correspondence Formation
+
+            ↓
+
+    NEW
+
+    Correspondence Localization
+    by Level,
+    Responsibility,
+    Provenance,
+    and Evidence Boundary
+
+This supports the bounded observation:
+
+> **Correspondence Expansion → Correspondence Localization**
+
+The observation remains Case-specific.
+
+---
+
+## 165. Correspondence Localization Does Not Erase Correspondence
+
+The New Case does not simply replace correspondence with non-correspondence.
+
+Instead, it differentiates correspondence into levels.
+
+The restabilized structure is:
+
+    Representation / Formal
+            ↓
+    Meaningful Correspondence
+
+    Abstract Organizational
+            ↓
+    Limited / Qualified Correspondence
+
+    Object Structural / Topological
+            ↓
+    Material Non-Correspondence
+
+Therefore:
+
+> **New Case does not erase Correspondence; it localizes the domain in which Correspondence remains justified.**
+
+---
+
+## 166. Most Important Formation Boundary
+
+The most important formation boundary is:
+
+> **Old Case incompletion defines the boundary of historical comparison; it does not define the quality of Old observations.**
+
+Likewise:
+
+> **New Case completion defines the extent of New formation; it does not establish analytical superiority.**
+
+---
+
+## 167. Most Important Stage Boundary
+
+The most important Stage-Asymmetry boundary is:
+
+> **A New observation cannot be classified as New-only, and a Legacy absence cannot be classified as failure, merely because the Legacy Case never reached the analytical stage responsible for that observation.**
+
+Therefore:
+
+    Stage Difference
+            ↓
+    Evidence Boundary Preservation
+
+not:
+
+    Stage Difference
+            ↓
+    Quality Ranking
+
+---
+
+## 168. Final Evidence Logic
+
+The final evidence logic is:
+
+    What Old explicitly formed
+            ↓
+    May be directly compared
+
+    What Old explicitly formed
+    but New did not reproduce
+            ↓
+    May be classified
+    NON-REPRODUCED
+
+    What Old explicitly formed
+    but New localized differently
+            ↓
+    May be classified
+    RECLASSIFIED
+
+    What Old did not form
+    because the analytical stage
+    was not reached
+            ↓
+    STAGE-UNAVAILABLE
+
+    What has a Legacy precursor
+    but no determining Legacy judgment
+            ↓
+    NEW-FORMED /
+    LEGACY-UNDETERMINED
+
+    What Old would have concluded
+    had formation continued
+            ↓
+    UNDETERMINED
+
+---
+
+## 169. Final Formation Model
+
+    OLD CASE 005
+
+    01
+    Representation Package Overview
+            ↓
+    02
+    Structural Correspondence
+            ↓
+    03
+    Functional Correspondence
+            ↓
+    STOP
+
+            ×
+
+    NEW INDEPENDENT CASE 005
+
+    Controlled Intake
+            ↓
+    Independent Projection A
+            ↓
+    FREEZE A
+            ↓
+    Independent Projection B
+            ↓
+    FREEZE B
+            ↓
+    Comparison Units
+            ↓
+    Direct Structural Comparison
+            ↓
+    Higher-order Structural Integration
+            ↓
+    Recursive Verification
+            ↓
+    Restabilized Comparative Judgment
+            ↓
+    Repository Projection
+            ↓
+    PRE-LEGACY FREEZE
+
+            ↓
+
+    OLD × NEW COMPARATIVE ASSESSMENT
+
+    Responsibility Overlap
+            ↓
+    Direct Comparison
+            ↓
+    PRESERVED
+    /
+    RECLASSIFIED
+    /
+    NON-REPRODUCED
+    /
+    UNDETERMINED
+
+    No Responsibility Overlap
+    because Legacy stage
+    was not formed
+            ↓
+    STAGE-UNAVAILABLE
+
+    Partial Legacy Precursor
+            ↓
+    NEW-FORMED
+    /
+    LEGACY-UNDETERMINED
+
+            ↓
+
+    NO RETROACTIVE
+    LEGACY COMPLETION
+
+    NO COUNTERFACTUAL
+    LEGACY FINAL JUDGMENT
+
+    NO FORMATION-BASED
+    QUALITY RANKING
+
+---
+
+## 170. Final Invariant Compression
+
+The entire Artifact 04 can be compressed into six governing controls:
+
+### Control 1 — Historical Formation
+
+> **Compare the Legacy Case that actually formed, not the Legacy Case that might have formed.**
+
+### Control 2 — Responsibility Matching
+
+> **Compare analytical responsibilities before comparing artifact positions or terminology.**
+
+### Control 3 — Stage Preservation
+
+> **Where Legacy responsibility was never formed, preserve Stage-Unavailable rather than manufacturing disagreement.**
+
+### Control 4 — No Quality Ranking
+
+> **Different Formation Architecture ≠ Different Truth Value**
+
+### Control 5 — No Retrospective Repair
+
+> **Old Incomplete ≠ Permission to Complete Old Retrospectively**
+
+### Control 6 — No Correspondence Inflation
+
+> **Correspondence must remain bounded by Level, Responsibility, Provenance, and Evidence Strength.**
+
+---
+
+# Status
+
+    Artifact 04
+    FORMATION AND STAGE ASYMMETRY
+
+    Repository Projection
+    COMPLETE
+
+    Legacy Formation Object
+    FROZEN
+
+    Old 01
+    FORMED
+
+    Old 02
+    FORMED
+
+    Old 03
+    FORMED
+
+    Old 04
+    NOT FORMED
+
+    Old 05
+    NOT FORMED
+
+    Old 06
+    NOT FORMED
+
+    Old README
+    NOT FORMED
+
+    Legacy Intake
+    COMPLETE RELATIVE TO
+    ACTUAL FORMED EVIDENCE
+
+    Legacy Observation Set v0.1
+    FROZEN
+
+    New Projection A
+    FROZEN
+
+    New Projection B
+    FROZEN
+
+    New Comparative Judgment
+    PRE-LEGACY FROZEN
+
+    Formation Asymmetry
+    ESTABLISHED
+
+    Stage Asymmetry
+    ESTABLISHED
+
+    Directly Comparable Responsibilities
+    BOUNDED
+
+    Stage-Unavailable Responsibilities
+    BOUNDED / RESTRICTED
+
+    Correspondence Provenance
+    NEW-FORMED /
+    LEGACY-UNDETERMINED
+
+    Hypothetical Legacy Continuation
+    UNDETERMINED
+
+    Legacy Failure
+    NOT ESTABLISHED
+
+    New Superiority
+    NOT ESTABLISHED
+
+    Formation Completeness
+    ≠
+    Correctness
+
+    Different Formation Architecture
+    ≠
+    Different Truth Value
+
+    Recursive Verification Record
+    DEFERRED TO ARTIFACT 05
+
+    Final Integrated Judgment
+    DEFERRED TO ARTIFACT 06
+
+---
+
+# Closure
+
+This artifact fixes the formation and stage boundary for the remaining Old × New comparative assessment.
+
+The Legacy formation stop is preserved as historical evidence.
+
+It is not repaired.
+
+It is not interpreted as failure.
+
+It is not used as negative evidence.
+
+The New Case's extended formation is preserved as process evidence.
+
+It is not interpreted as superiority.
+
+It is not treated as proof of correctness.
+
+The governing comparative rule is:
+
+    Comparable Responsibility
+            ↓
+    Compare Directly
+
+    Non-Comparable Formation Stage
+            ↓
+    Preserve Stage Asymmetry
+
+The governing epistemic rule remains:
+
+> **Different Formation Architecture ≠ Different Truth Value**
+
+The governing historical rule remains:
+
+> **Do not infer what the Legacy Case would have concluded beyond the artifacts it actually formed.**
+
+The governing comparative consequence is:
+
+> **New observations formed beyond the Legacy stop must not be converted automatically into Legacy disagreement, Legacy failure, or New-only discovery.**
+
+And the governing Old × New formation observation remains:
+
+> **The principal process-level change is not simply from correspondence to non-correspondence, but from broad Correspondence Formation toward Correspondence Localization under increasingly explicit Level, Responsibility, Provenance, and Evidence Boundaries.**
+
+**Formation and Stage Asymmetry — Repository Projection Complete.**
+
+**Part 3 / 3 — Complete**
+
 
